@@ -1,0 +1,19 @@
+/* Google Fonts Roboto */
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap");
+
+.container {
+  font-family: "Hind Siliguri", sans-serif;
+}
+
+.icon-hover:hover {
+  border-color: #3b71ca !important;
+  background-color: white !important;
+}
+
+.icon-hover:hover i {
+  color: #3b71ca !important;
+}
+
+.top-link {
+  margin-right: 1em;
+}
